@@ -1,9 +1,10 @@
 Pocket Helpdesk
 ===============
 
-A system for making a helpdesk specialist as efficient as possible
+A helpdesk specialist's best friend.
 
+# Currently under construction
 
 Requirements:
-* MySQl
+* MySQL
 * Python 3+
