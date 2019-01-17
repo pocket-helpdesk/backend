@@ -1,0 +1,14 @@
+Requirements:
+
+Text Templates
+ * The system should store common templates the user creates
+
+Common issues
+ * The system should store common issues a helpdesk specialist runs into
+ * Issues should be categoried by tagging them. 
+ * User can lookup/search for issues based on:
+   - Full text descriptions
+   - Tags
+
+Knowledge based entries
+ *  The system should store knowledge based entries (kbs)
